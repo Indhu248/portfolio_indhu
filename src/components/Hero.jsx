@@ -22,7 +22,7 @@ const Hero = () => {
         <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className="text-[#915eff]">Indhu</span></h1>
         <p className={`${styles.heroSubText} mt-2 text-white-100`}>I'm a front-end <span className='text-[#915eff]'>developer</span> and<br className="sm:block hidden"/>
          UI <span className='text-[#915eff]'>designer.</span></p>
-         <button className="bg-[#6d28d9] rounded-md text-center p-2 w-40 mt-10">Resume</button>
+         <a className="bg-[#6d28d9] rounded-md text-center p-2 w-40 mt-10" href="https://drive.google.com/file/d/1dNkcvKzbI4Nb1zPhqBqaPCiB9QatXGsN/view?usp=drive_link">Resume</a>
       </div>
 
 
