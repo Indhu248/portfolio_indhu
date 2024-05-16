@@ -13,7 +13,7 @@ const App=()=> {
           <Navbar />
           <Hero />
         </div>
-        <About id="about"/>
+{/*         <About id="about"/> */}
         {/* <Experience /> */}
         <Tech />
         <Works id="work"/>
